@@ -1,6 +1,7 @@
 # Single-Subject-Working-Memory-Analysis
 
-Dataset source from [**Dissociating the causal roles of frontal and parietal cortex in working memory capacity**](https://springernature.figshare.com/articles/journal_contribution/Dissociating_the_causal_roles_of_frontal_and_parietal_cortex_in_working_memory_capacity_Registered_Report_Stage_1_-_Protocol_/7145873/1?file=13370408) (Kiyonaga et al. 2018)
+All analysis so far done on Jupyter Notebook (design*matrices.ipynb and experimental_design.ipynb have similar code)
+Dataset source from [**Dissociating the causal roles of frontal and parietal cortex in working memory capacity**](https://springernature.figshare.com/articles/journal_contribution/Dissociating_the_causal_roles_of_frontal_and_parietal_cortex_in_working_memory_capacity_Registered_Report_Stage_1*-_Protocol_/7145873/1?file=13370408) (Kiyonaga et al. 2018)
 
 Theory:
 
