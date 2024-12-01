@@ -1,8 +1,6 @@
 # Single-Subject-Working-Memory-Analysis
 
-All analysis so far done on Jupyter Notebook (design_matrices.ipynb and experimental_design.ipynb have similar code)
-
-Most current basic analysis on cluster and regions is done in the Nov 6 notebook
+Final Code Output stored in EDA.ipynb, the main subject data we have been working with is stored in the GitHub, but the normalized data is on a separate lab server currently only accessible to Jennifer. This is only used in one plotting images (denoted with "normalized brain imaging")
 
 Dataset source from [**Dissociating the causal roles of frontal and parietal cortex in working memory capacity**](https://springernature.figshare.com/articles/journal_contribution/Dissociating_the_causal_roles_of_frontal_and_parietal_cortex_in_working_memory_capacity_Registered_Report_Stage_1*-_Protocol*/7145873/1?file=13370408) (Kiyonaga et al. 2018)
 
