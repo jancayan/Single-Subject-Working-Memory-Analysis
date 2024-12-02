@@ -1,0 +1,2 @@
+cluster_id,peak_x,peak_y,peak_z,cluster_mean,volume_mm,aal,desikan_killiany,harvard_oxford
+1.0,-2.459953725337982,32.79437303543091,24.492310345172882,120.69103150887014,6024461.067008972,77.36% no_label,78.30% Unknown,71.37% no_label
