@@ -23,3 +23,7 @@ Hypothesis Summaries:
 
 1. TMS to PFC should have a larger effect on continuous report performance and when there is higher load, could be unnecessary for memory representation
 2. TMS to IPS should more severely impair change detection performance at any load, and disrupt storage of mnemonic information (in this case maybe colors)
+
+## Running Our Code
+In order to reproduce the code to generate the data in our project, ensure that you create a conda environment using the environment.yml file. In this environment, run 
+EDA.ipynb. Note that the code with stop at the "Plot with normalized data" section. This is because in order to run this section, you must be in a specific lab server. However, this section ended up being unused in the final report and is now irrelevant. All of the relevant code is completed prior to that section.
